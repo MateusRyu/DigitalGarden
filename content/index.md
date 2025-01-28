@@ -1,6 +1,16 @@
 ---
-title: Welcome to Quartz
+title: Blog do Ryu
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Seja bem-vindo(a) ao meu blog pessoal! Aqui contém minhas anotações do meu 
+conhecimento geral, tanto acadêmico como lazer ou apenas coisas que pesquisei.
+A organização seque uma lógica não-hierárquica, no sentido de que não busca 
+agrupar ou criar relações de subordinação, desta forma, reforçando um crescimento 
+orgânico e natural do conhecimento em uma forma de grafo, na qual se pode 
+observar em `Visão de gráfico`. Para facilitar a indexação, as páginas são 
+organizadas em um sistema cronológico com base na data de **criação** das notas 
+e são classificados com uma etiqueta (_tag_) de acordo com a sua natureza. 
+Sendo assim, é encorajado que faça uso da barra de pesquisa para encontrar a 
+nota desejada ou que siga o fluxo natural do conhecimento, podendo navegar 
+pelas notas linkadas na página ou indo para páginas que fazem citação da 
+página atual.
