@@ -1,8 +1,8 @@
 ---
-title: Welcome to Quartz 4
+title: Quartz
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+Quartz é a ferramenta que converte os arquivos markdown em um site completamente funcional e compatível com wikilinks visualização em grafos. 
 
 ## 🪴 Get Started
 
