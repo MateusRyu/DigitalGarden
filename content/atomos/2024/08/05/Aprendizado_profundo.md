@@ -1,7 +1,6 @@
 ---
 title: Aprendizado profundo
-tags:
-  - v1.1
+tags: []
 aliases:
   - Aprendizado profundo
 draft: true

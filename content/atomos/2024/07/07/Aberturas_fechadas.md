@@ -1,7 +1,6 @@
 ---
 title: Aberturas fechadas
-tags:
-  - v1.1
+tags: []
 aliases:
   - Aberturas fechadas
   - aberturas fechadas

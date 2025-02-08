@@ -1,7 +1,6 @@
 ---
 title: Abertura do Peão da Dama
 tags:
-  - v1.1
 aliases:
   - Abertura de Peão da Dama
   - Peão da Dama
@@ -10,13 +9,4 @@ created_at: 2024-07-26T13:21:33-03:00
 updated_at: 2025-01-24T00:31:13-03:00
 ---
 
-É uma das [aberturas de xadrez](content/atomos/2024/07/26/Xadrez_Aberturas.md), conhecido na comunidade de [xadrez](content/atomos/2024/08/06/Xadrez.md) por ser uma escolha mais sólida e estratégica.
-
----
-
-
-- [Gambito Englund](content/atomos/2024/07/26/Xadrez_Gambito_Englund.md);
-- [Defesa Polonesa](content/atomos/2024/07/12/Xadrez_Defesa_Polonesa.md);
-- [Defesa do Cavalo da Dama](content/atomos/2024/07/12/Xadrez_Defesa_do_Cavalo_da_Dama.md);
-- [Defesa Inglês](content/atomos/2024/07/12/Xadrez_Defesa_Ingles.md);
-- [Defesa Keres](content/atomos/2024/07/12/Xadrez_Defesa_Keres.md);
+É uma das [[Xadrez_Aberturas|Aberturas de xadrez]], conhecido na comunidade de [[../../08/06/Xadrez|Xadrez]] por ser uma escolha mais sólida e estratégica. Ela é característizada pelo lance `1. d4` que desenvolve um peão e iniciando o controle do centro do tabuleiro. Como vantagem, esse lance controla o centro sem expor o [[../08/Xadrez_Rei_xadrez|Rei]] para possíveis sacrifícios das negras que poderia criar um contra ataque rápido e por isso é considerado uma opção bem segura e sólida para se iniciar o jogo. Como lado negativo, ela só libera a movimentação do bispo da dama, o que pode atrasar o ataque das brancas e exige uma certa habilidade para coordenar ataques eficientes e que crie debilidades.

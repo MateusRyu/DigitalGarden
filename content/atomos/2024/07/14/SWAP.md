@@ -1,7 +1,6 @@
 ---
 title: SWAP
-tags:
-  - v1.1
+tags: []
 aliases:
   - SWAP
 draft: true

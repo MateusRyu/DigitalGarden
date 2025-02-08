@@ -2,8 +2,7 @@
 title: "Ciscos e Traves: Uma Teoria Neo-Junguiana de Personalidade"
 author: Michael Pierce
 Translate: Nicolas Kramer
-tags:
-  - v1.1
+tags: []
 aliases:
   - Ciscos e Traves
 draft: true

@@ -1,7 +1,6 @@
 ---
 title: Pixel
-tags:
-  - v1.1
+tags: []
 aliases:
   - Pixel
 created_at: 2024-07-12T19:15:41-03:00
