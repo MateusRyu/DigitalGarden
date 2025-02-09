@@ -1,12 +1,12 @@
 ---
 title: asdf
 tags:
-  - v1.1
+  - Entrada
 aliases:
   - asdf
 draft: true
 created_at: 2024-07-10T22:45:00-03:00
-updated_at: 2025-01-24T00:31:15-03:00
+updated_at: 2025-02-09T01:45:37-03:00
 ---
 
 https://asdf-vm.com/

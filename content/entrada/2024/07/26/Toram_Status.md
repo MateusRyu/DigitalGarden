@@ -5,7 +5,7 @@ tags:
 aliases:
   - Status
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2025-02-07T13:02:58-03:00
+updated_at: 2025-02-09T01:43:59-03:00
 ---
 
 No [[Toram]], o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
@@ -39,22 +39,22 @@ Por exemplo:
 
 ### Status percentual
 
-Alguns status já são valores percentuais (exemplo: [[../09/Toram_Guard_Rate|Guard Rate]], [[../09/Toram_Guard_Power|Guard Power]], [[../09/Toram_Evasion_Rate|Evasion Rate]]). Nesses casos, basta somar todos os valores!
+Alguns status já são valores percentuais (exemplo: [[../../../../2024/07/09/entrada/Toram_Guard_Rate|Guard Rate]], [[../../../../2024/07/09/entrada/Toram_Guard_Power|Guard Power]], [[../../../../2024/07/09/entrada/Toram_Evasion_Rate|Evasion Rate]]). Nesses casos, basta somar todos os valores!
 
 ### Calculo final
 
-Alguns status dependem de outros status, então é necessário um calculo na ordem certa! Por exemplo, [[../09/Toram_Critical_Damage|Critical Damage]] é calculado baseado no [[Toram_STR|STR]], então será necessário calcular o [[Toram_STR|STR]] primeiro par poder usar no calculo do [[../09/Toram_Critical_Damage|Critical Damage]].  
+Alguns status dependem de outros status, então é necessário um calculo na ordem certa! Por exemplo, [[../../../../2024/07/09/entrada/Toram_Critical_Damage|Critical Damage]] é calculado baseado no [[Toram_STR|STR]], então será necessário calcular o [[Toram_STR|STR]] primeiro par poder usar no calculo do [[../../../../2024/07/09/entrada/Toram_Critical_Damage|Critical Damage]].  
 
 Para fins didáticos, os jogadores separaram os status em algumas categorias:
 1. [[Toram_Status_basico|Status básicos]]: Aqueles que podem ser adicionados ao aumentar de level;
-2. [[../09/Toram_Status_de_equipamento|Status de equipamento]]: ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
-3. [[../09/Toram_Status_derivados|Status derivados]]: Status que se derivam dos [[Toram_Status_basico|Status básicos]]. 
-4. [[../09/Toram_Status não-derivados|Status não-derivados]]: Aqueles obtidos exclusivamente de equipamentos ou habilidade.
-5. [[../09/Toram_Status_Especial|Status Especial]]: Status que não se encaixam nas classificações anteriores.
+2. [[../../../../2024/07/09/entrada/Toram_Status_de_equipamento|Status de equipamento]]: ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
+3. [[../../../../2024/07/09/entrada/Toram_Status_derivados|Status derivados]]: Status que se derivam dos [[Toram_Status_basico|Status básicos]]. 
+4. [[../../../../2024/07/09/entrada/Toram_Status não-derivados|Status não-derivados]]: Aqueles obtidos exclusivamente de equipamentos ou habilidade.
+5. [[../../../../2024/07/09/entrada/Toram_Status_Especial|Status Especial]]: Status que não se encaixam nas classificações anteriores.
 
-Por exemplo, digamos que queremos calcular o valor de [[../09/Toram_ATK|ATK]] para o usuário da [[../12/Toram_One_Handed_Sword|Espada de uma mão]] Este status é baseada em ([[Toram_Status_basico|Status básicos]]) [[Toram_STR|STR]] e [[../09/Toram_DEX|DEX]] e ([[../09/Toram_Status_de_equipamento|Status de equipamento]]) [[../09/Toram_ATK|ATK]]. Portanto os passos serão os seguintes:
-1. Pegue [[Toram_STR|STR]] e [[../09/Toram_DEX|DEX]] originais. Aplique o modificador [[Toram_STR|STR]]% e [[../09/Toram_DEX|DEX]]% a eles.
-2. Aplique o modificador plano [[Toram_STR|STR]]+ e [[../09/Toram_DEX|DEX]]+ ao resultado de (1), obtemos [[Toram_STR|STR]] final e [[../09/Toram_DEX|DEX]] final.
+Por exemplo, digamos que queremos calcular o valor de [[../../../../2024/07/09/entrada/Toram_ATK|ATK]] para o usuário da [[../12/Toram_One_Handed_Sword|Espada de uma mão]] Este status é baseada em ([[Toram_Status_basico|Status básicos]]) [[Toram_STR|STR]] e [[../../../../2024/07/09/entrada/Toram_DEX|DEX]] e ([[../../../../2024/07/09/entrada/Toram_Status_de_equipamento|Status de equipamento]]) [[../../../../2024/07/09/entrada/Toram_ATK|ATK]]. Portanto os passos serão os seguintes:
+1. Pegue [[Toram_STR|STR]] e [[../../../../2024/07/09/entrada/Toram_DEX|DEX]] originais. Aplique o modificador [[Toram_STR|STR]]% e [[../../../../2024/07/09/entrada/Toram_DEX|DEX]]% a eles.
+2. Aplique o modificador plano [[Toram_STR|STR]]+ e [[../../../../2024/07/09/entrada/Toram_DEX|DEX]]+ ao resultado de (1), obtemos [[Toram_STR|STR]] final e [[../../../../2024/07/09/entrada/Toram_DEX|DEX]] final.
 3. Pegue o [ATK](content/entrada/2024/07/09/Toram_ATK.md) da arma e calcule seu bônus de refinamento.
 4. Pegue o [ATK](content/entrada/2024/07/09/Toram_ATK.md) da arma, aplique o [ATK](content/entrada/2024/07/09/Toram_ATK.md)% da arma e o modificador do [ATK](content/entrada/2024/07/09/Toram_ATK.md)+ da arma a ele.
 5. Somando (3) e (4), obtemos o [ATK](content/entrada/2024/07/09/Toram_ATK.md) final da arma.
