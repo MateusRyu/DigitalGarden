@@ -2,6 +2,8 @@
 title: AliasRedirects
 tags:
   - plugin/emitter
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-02T13:45:06-03:00
 ---
 
 This plugin emits HTML redirect pages for aliases and permalinks defined in the frontmatter of content files.

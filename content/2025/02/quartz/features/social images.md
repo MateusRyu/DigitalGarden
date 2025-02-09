@@ -1,5 +1,7 @@
 ---
-title: "Social Media Preview Cards"
+title: Social Media Preview Cards
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:52-03:00
 ---
 
 A lot of social media platforms can display a rich preview for your website when sharing a link (most notably, a cover image, a title and a description). Quartz automatically handles most of this for you with reasonable defaults, but for more control, you can customize these by setting [[social images#Frontmatter Properties]].

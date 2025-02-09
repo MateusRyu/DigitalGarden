@@ -6,7 +6,7 @@ aliases:
   - Pitágoras
 draft: true
 created_at: 2024-09-11T22:01:37-03:00
-updated_at: 2024-10-10T18:00:40-03:00
+updated_at: 2025-01-21T00:48:28-03:00
 ---
 
 

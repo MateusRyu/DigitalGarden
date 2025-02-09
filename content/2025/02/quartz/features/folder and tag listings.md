@@ -2,6 +2,8 @@
 title: Folder and Tag Listings
 tags:
   - feature/emitter
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:52-03:00
 ---
 
 Quartz emits listing pages for any folders and tags you have.

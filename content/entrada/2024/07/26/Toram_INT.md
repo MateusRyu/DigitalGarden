@@ -5,7 +5,7 @@ tags:
 aliases:
   - INT
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2025-01-24T00:31:16-03:00
+updated_at: 2025-02-07T12:29:41-03:00
 ---
 
 INT é um dos [[Toram_Status_basico|status básicos]] 

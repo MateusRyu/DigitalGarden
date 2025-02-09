@@ -1,7 +1,9 @@
 ---
-title: "OxHugo Compatibility"
+title: OxHugo Compatibility
 tags:
   - feature/transformer
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:52-03:00
 ---
 
 [org-roam](https://www.orgroam.com/) is a plain-text personal knowledge management system for [emacs](https://en.wikipedia.org/wiki/Emacs). [ox-hugo](https://github.com/kaushalmodi/ox-hugo) is org exporter backend that exports `org-mode` files to [Hugo](https://gohugo.io/) compatible Markdown.

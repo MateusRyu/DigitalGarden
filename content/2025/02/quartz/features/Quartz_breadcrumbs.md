@@ -1,7 +1,9 @@
 ---
-title: "Breadcrumbs"
+title: Breadcrumbs
 tags:
   - component
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-02T19:53:36-03:00
 ---
 
 Breadcrumbs provide a way to navigate a hierarchy of pages within your site using a list of its parent folders.

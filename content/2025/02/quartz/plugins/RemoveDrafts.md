@@ -2,6 +2,8 @@
 title: RemoveDrafts
 tags:
   - plugin/filter
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:52-03:00
 ---
 
 This plugin filters out content from your vault, so that only finalized content is made available. This prevents [[../features/private pages]] from being published. By default, it filters out all pages with `draft: true` in the frontmatter and leaves all other pages intact.

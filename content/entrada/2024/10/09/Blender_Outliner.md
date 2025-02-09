@@ -6,7 +6,7 @@ aliases:
   - Outliner
 draft: true
 created_at: 2024-10-09T17:04:30-03:00
-updated_at: 2025-01-24T00:31:17-03:00
+updated_at: 2025-02-07T16:08:20-03:00
 ---
 
 É a área do [[../../07/26/Blender|Blender]] em que os elementos estão organizados de maneira textual da cena de forma hierárquica, facilitando a seleção rápida.

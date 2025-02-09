@@ -2,6 +2,8 @@
 title: Static
 tags:
   - plugin/emitter
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-02T13:45:06-03:00
 ---
 
 This plugin emits all static resources needed by Quartz. This is used, for example, for fonts and images that need a stable position, such as banners and icons. The plugin respects the `ignorePatterns` in the global [[../configuration]].

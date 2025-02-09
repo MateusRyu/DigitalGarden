@@ -1,5 +1,7 @@
 ---
 title: "Quartz: Layout"
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:51-03:00
 ---
 
 Certain emitters may also output [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) files. To enable easy customization, these emitters allow you to fully rearrange the layout of the page. The default page layouts can be found in `quartz.layout.ts`.

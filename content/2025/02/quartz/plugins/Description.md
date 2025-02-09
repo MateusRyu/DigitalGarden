@@ -2,6 +2,8 @@
 title: Description
 tags:
   - plugin/transformer
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:52-03:00
 ---
 
 This plugin generates descriptions that are used as metadata for the HTML `head`, the [[../features/RSS Feed]] and in [[../features/folder and tag listings]] if there is no main body content, the description is used as the text between the title and the listing.

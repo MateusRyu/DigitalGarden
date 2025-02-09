@@ -5,7 +5,7 @@ tags:
 aliases:
   - Status
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2025-01-24T00:31:16-03:00
+updated_at: 2025-02-07T13:02:58-03:00
 ---
 
 No [[Toram]], o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.

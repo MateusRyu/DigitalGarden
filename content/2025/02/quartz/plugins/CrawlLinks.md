@@ -2,6 +2,8 @@
 title: CrawlLinks
 tags:
   - plugin/transformer
+created_at: 2025-01-30T22:12:02-03:00
+updated_at: 2025-02-03T23:53:52-03:00
 ---
 
 This plugin parses links and processes them to point to the right places. It is also needed for embedded links (like images). See [[../features/Obsidian compatibility]] for more information.

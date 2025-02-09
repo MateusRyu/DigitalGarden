@@ -6,7 +6,7 @@ aliases:
   - LinkedIn_Social_Index
 draft: true
 created_at: 2024-08-20T19:45:59-03:00
-updated_at: 2024-10-09T16:51:56-03:00
+updated_at: 2025-01-21T00:48:28-03:00
 ---
 
 [SSI](https://www.linkedin.com/sales/ssi)

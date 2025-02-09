@@ -6,7 +6,7 @@ aliases:
   - Ichirou Irabu
 draft: true
 created_at: 2024-07-12T19:29:09-03:00
-updated_at: 2024-10-09T15:00:27-03:00
+updated_at: 2025-01-21T00:48:28-03:00
 ---
 
 

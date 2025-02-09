@@ -1,5 +1,7 @@
 ---
 title: Blog do Ryu
+created_at: 2025-01-30T22:12:00-03:00
+updated_at: 2025-01-28T01:30:55-03:00
 ---
 
 Seja bem-vindo(a) ao meu blog pessoal! Aqui contém minhas anotações do meu 
