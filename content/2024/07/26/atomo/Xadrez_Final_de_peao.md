@@ -6,14 +6,14 @@ aliases:
   - Final de peão
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2025-02-08T22:44:49-03:00
+updated_at: 2025-02-09T20:04:54-03:00
 ---
 
-Nos de peões do [xadrez](content/atomos/2024/08/06/Xadrez.md), o rei precisa guiar e proteger o peão até a casa de promoção. A estratégia principal varia de acordo de qual peão será promovida e de onde o peão está. Entretanto, sempre será importante aplicar a [oposição de Rei](content/atomos/2024/07/08/Xadrez_Oposição_de_Rei.md) para controlaras as casa-chaves.
+Nos de peões do [Xadrez](../../../08/06/atomo/Xadrez.md), o rei precisa guiar e proteger o peão até a casa de promoção. A estratégia principal varia de acordo de qual peão será promovida e de onde o peão está. Entretanto, sempre será importante aplicar a [Oposição de Rei](../../08/atomo/Xadrez_Oposição_de_Rei.md) para controlar as casa-chaves.
 
 # Segunda à quarta fileira
 Proteger as casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
-![Final de peão na segunda fileira](../../../_excalidraw/final_de_peao_2_fileira.excalidraw.md)
+![Final de peão na segunda fileira](../../../../excalidraw/final_de_peao_2_fileira.excalidraw.md)
 # Quinta e sexta fileira
 Proteger as duas casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
 

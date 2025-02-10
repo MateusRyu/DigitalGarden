@@ -1,22 +1,18 @@
 ---
+created_at: 2025-02-08T22:42:57-03:00
+updated_at: 2025-02-09T20:00:22-03:00
 title: Aberturas de flanco
 tags:
   - Átomo
 aliases:
-  - Aberturas de flanco
-  - Abertura de flanco
-draft: true
-created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2025-02-08T22:42:57-03:00
+  - aberturade flanco
 ---
 
-[Xadrez](content/atomos/2024/08/06/Xadrez.md)
-## Lista
--  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
-	-  (`A00`) [Aberturas irregulares](content/atomos/2024/07/26/Xadrez_Aberturas_irregulares.md): ![Xadrez_Aberturas_irregulares](content/atomos/2024/07/26/Xadrez_Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
-	-  (`A01`) [Abertura Larsen](content/atomos/2024/07/12/Xadrez_Abertura_Larsen.md): `1.b3`;
-	-  (`A02`) [Abertura Bird](content/atomos/2024/07/26/Xadrez_Abertura_Bird.md): `1.f4`;
-		-  (`A03`) [Abertura Bird, variante holandesa](content/atomos/2024/07/26/Xadrez_Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;
+  - Aberturas de flanco ​`1.b3`;
+	-  (`A00`) [Abertura irregular](Xadrez_Aberturas_irregulares.md);
+	- (`A01`) [Abertura Larsen](../../12/atomo/Xadrez_Abertura_Larsen.md): 
+	- (`A02`) [Abertura Bird](Xadrez_Abertura_Bird.md): `1.f4`;
+		-  (`A03`) [[[abertura bird, variante holandesa]]Ab
 	-  (`A04`) [Abertura Zukertort](content/atomos/2024/07/26/Xadrez_Abertura_Reti.md): `1.Nf3`;
 		-  (`A05`) [Abertura Réti](content/atomos/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 Nf6`;
 		-  (`A06`) [Abertura Réti](content/atomos/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 d5`;
