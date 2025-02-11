@@ -6,7 +6,7 @@ aliases:
   - Markdown
 draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2025-02-08T21:56:50-03:00
+updated_at: 2025-02-10T07:31:26-03:00
 ---
 
 - Extensão `.md`
@@ -14,7 +14,7 @@ updated_at: 2025-02-08T21:56:50-03:00
 
 ---
 ## Cabeçalho
-Ver mais detalhes em: [Header (HTML)](content/atomos/2024/07/08/HyperText_Markup_Language.md#Header)
+Ver mais detalhes em: [Header HTML](HyperText_Markup_Language.md#Header)
 
 Cabeçalho, ou do inglês `header`, é indicado por uma ou mais cerquilha (`#`) no inicio da linha. A quantidade de cerquilhas indica o nível hierarquístico do `header`. Abaixo estará exemplos visuais e a sua correspondência sintática
 
@@ -30,7 +30,7 @@ Cabeçalho, ou do inglês `header`, é indicado por uma ou mais cerquilha (`#`) 
 ---
 ## Lista
 ### Lista ordenada
-Ver mais detalhes em: [Ordered List (HTML)](content/atomos/2024/07/08/HyperText_Markup_Language.md#Ordered%20List)
+Ver mais detalhes em: [Ordered List (HTML)](HyperText_Markup_Language.md#Ordered%20List)
 
 ```md
 1. Primeiro item;
@@ -40,7 +40,7 @@ Ver mais detalhes em: [Ordered List (HTML)](content/atomos/2024/07/08/HyperText_
 ```
 ---
 ### Lista não-ordenada
-Ver mais detalhes em: [Unordered List (HTML)](content/atomos/2024/07/08/HyperText_Markup_Language.md#Unordered%20List)
+Ver mais detalhes em: [Unordered List (HTML)](HyperText_Markup_Language.md#Unordered%20List)
 ```md
 - Azul;
 - Roxo;

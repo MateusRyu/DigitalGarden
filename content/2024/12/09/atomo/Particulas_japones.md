@@ -1,6 +1,6 @@
 ---
 created_at: 2024-12-09T23:26:56-03:00
-updated_at: 2025-02-09T01:24:04-03:00
+updated_at: 2025-02-10T08:41:33-03:00
 title: Partículas (japonês)
 tags:
   - Átomo
@@ -21,4 +21,4 @@ Uma partícula, no [idioma japonês](../../10/atomo/Idioma_japonês.md), é um e
 - [こと](Koto-particula.md);
 - [が](../../10/atomo/ga-particula.md);
 - [か](../../10/atomo/ka-particula.md);
-- [と](../../../../content/atomos/2024/12/09/to-particula.md);
+- [と](to-particula.md);
