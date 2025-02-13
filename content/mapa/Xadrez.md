@@ -1,11 +1,11 @@
 ---
 title: Xadrez
 tags:
-  - v1.1
+  - Mapa
 aliases:
   - Xadrez
 created_at: 2024-08-04T13:50:36-03:00
-updated_at: 2025-01-24T00:31:17-03:00
+updated_at: 2025-02-12T19:00:58-03:00
 ---
 
 - [Xadrez](content/atomos/2024/08/06/Xadrez.md)

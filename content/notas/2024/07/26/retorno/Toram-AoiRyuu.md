@@ -5,7 +5,7 @@ tags:
 aliases:
   - Toram-AoiRyuu
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2025-02-11T00:43:48-03:00
+updated_at: 2025-02-12T18:37:14-03:00
 ---
 
 [Toram](../entrada/Toram.md)
@@ -21,7 +21,7 @@ Ruby: (Farmer breaker) LUK > AGI
 Lilac: (magical device) VIT 
 
 ## BS
-![AoiRyuu_BS.excalidraw](../../../../../excalidraw/AoiRyuu_BS.excalidraw.md)
+![AoiRyuu_BS.excalidraw](../../../../../excalidraw/2024/07/AoiRyuu_BS.excalidraw.md)
 
 [Ryu](../../08/retorno/Toram_Ryu.md): Bowgun e Katana
 [Aoi](../../08/retorno/Toram_Aoi.md): +B refine

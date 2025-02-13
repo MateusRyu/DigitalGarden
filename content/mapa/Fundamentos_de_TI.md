@@ -1,9 +1,9 @@
 ---
 title: Fundamentos de TI
 tags:
-  - v1.1
+	- Mapa
 aliases:
-  - Desenvolvimento de software
+  - Fundamentos de TI
 created_at: 2024-10-01T09:31:39-03:00
 updated_at: 2025-01-24T00:31:17-03:00
 ---
