@@ -5,10 +5,10 @@ tags:
 aliases:
   - Viewport
 created_at: 2024-10-09T16:58:54-03:00
-updated_at: 2025-02-11T00:30:07-03:00
+updated_at: 2025-02-14T16:15:27-03:00
 ---
 
-É a área de trabalho do [Blender](content/entrada/2024/07/26/Blender.md) onde será executado a modelagem e movimentação dos modelos 3D.
+É a área de trabalho do [Blender](../../../07/26/entrada/Blender.md) onde será executado a modelagem e movimentação dos modelos 3D.
 
 ---
 

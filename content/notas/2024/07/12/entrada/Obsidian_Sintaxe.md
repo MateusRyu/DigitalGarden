@@ -5,18 +5,18 @@ tags:
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2025-02-11T00:02:34-03:00
+updated_at: 2025-02-14T16:34:25-03:00
 ---
 
-O obsidian tem uma [sintaxe](content/atomos/2024/07/12/Sintaxe.md) baseado no [markdown](content/atomos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](content/atomos/2024/07/12/Grafos.md).
+O obsidian tem uma [Sintaxe](../atomo/Sintaxe.md) baseado no [Markdown](../../08/atomo/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [Grafos](../atomo/Grafos.md).
 
 ---
 
 ## Sintaxe
 
-![Cabeçalho](content/atomos/2024/07/08/Markdown.md#Cabeçalho)
+![Cabeçalho](../../08/atomo/Markdown.md#Cabeçalho)
 
-![Lista](content/atomos/2024/07/08/Markdown.md#Lista)
+![Lista](../../08/atomo/Markdown.md#Lista)
 ### Link
 #### Link interno
 ##### Wikilink
@@ -32,7 +32,7 @@ O obsidian tem uma [sintaxe](content/atomos/2024/07/12/Sintaxe.md) baseado no [m
 [Nome do documento](Nome%20do%20documento.md#^ID_do_bloco)
 ```
 
-> Observação: É preciso seguir a [Codificação URL](content/atomos/2024/07/12/Codificação_URL.md) para o caminho de onde está localizado o arquivo que o link se refere!
+> Observação: É preciso seguir a [Codificação URL](../atomo/Codificação_URL.md) para o caminho de onde está localizado o arquivo que o link se refere!
 #### Apelido
 ```md
 [[Nome do documento|apelido usado para exibição do texto]]
@@ -65,7 +65,7 @@ No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|lar
 ![[Document.pdf#page=3]]
 ```
 
-Também é possível especificar a largura em [pixel](content/atomos/2024/07/12/Pixel.md) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
+Também é possível especificar a largura em [Pixel](../atomo/Pixel.md) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
 
 ```md
 ![[Document.pdf#height=400]]
