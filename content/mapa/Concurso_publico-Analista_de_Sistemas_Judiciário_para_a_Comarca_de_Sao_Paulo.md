@@ -47,7 +47,7 @@ updated_at: 2025-02-14T16:03:32-03:00
 ### BANCOS DE DADOS 
 1. Conceitos Básicos: modelagem de dados e normalização. Integridade referencial e transações. 
 2. Sistemas Gerenciadores de Banco de Dados (SGBD): Oracle, SQL Server e MySQL. Noções de bancos de dados NoSQL. 
-3. Linguagem [SQL](../content/notas/2024/09/05/entrada/SQL.md): DDL (Data Definition Language). DML (Data Manipulation Language). Otimização de consultas. 
+3. Linguagem [SQL](../notas/2024/09/05/entrada/SQL.md): DDL (Data Definition Language). DML (Data Manipulation Language). Otimização de consultas. 
 4. Administração de Bancos de Dados: Backup e restore. Monitoramento e tuning de performance. Segurança e controle de acesso. 
 5. Integração e Ingestão de Dados: Processos ETL/ELT. Ferramentas de integração de dados. 
 6. Big Data e Análise de Dados: conceitos de data lakes. Noções de inteligência artificial e análise de dados. Ferramentas e técnicas: Spark, Hadoop, HDFS, MapReduce. 
@@ -74,14 +74,14 @@ updated_at: 2025-02-14T16:03:32-03:00
 
 ### INFRAESTRUTURA E COMPUTAÇÃO EM NUVEM 
 1. Conceitos Fundamentais: modelos de computação em nuvem: IaaS, PaaS, SaaS. 
-2. Conteinerização: [Docker](../content/notas/2024/07/26/entrada/Docker.md) e Kubernetes (conceitos básicos e uso).
+2. Conteinerização: [Docker](../notas/2024/07/26/entrada/Docker.md) e Kubernetes (conceitos básicos e uso).
 
 ### ARQUITETURA DE DESENVOLVIMENTO DA PDPJ-Br 
 - Linguagem de programação Java; 
 - Arquitetura distribuída de microsserviços; 
 - API RESTful; 
 - JSON; 
-- Framework [Spring](../content/notas/2024/07/08/Entrada/Frameworks_Spring.md); 
+- Framework [Spring](../notas/2024/07/08/Entrada/Frameworks_Spring.md); 
 - Spring Cloud; 
 - Spring Boot; 
 - Spring Eureka; 
