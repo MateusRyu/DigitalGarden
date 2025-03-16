@@ -21,7 +21,7 @@ Ruby: (Farmer breaker) LUK > AGI
 Lilac: (magical device) VIT 
 
 ## BS
-![AoiRyuu_BS.excalidraw](../../../../../excalidraw/2024/07/AoiRyuu_BS.excalidraw.md)
+![AoiRyuu_BS.excalidraw](AoiRyuu_BS.excalidraw.md)
 
 [Ryu](../../08/retorno/Toram_Ryu.md): Bowgun e Katana
 [Aoi](../../08/retorno/Toram_Aoi.md): +B refine

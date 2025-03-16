@@ -16,10 +16,10 @@ updated_at: 2025-02-11T00:13:12-03:00
 ## Concept art
 ---
 ### Line art
-![Little Bot Bunny: Concept art](assets/images/2024/Little_Bot_Bunny-Concept_art.png)
+![Little Bot Bunny: Concept art](Little_Bot_Bunny-Concept_art.png)
 
 ### Final
-![Little Bot Bunny: Concept art](assets/images/2024/Little_Bot_Bunny-final.png)
+![Little Bot Bunny: Concept art](Little_Bot_Bunny-final.png)
 
 ## Licença
 ---

@@ -13,7 +13,7 @@ Nos de peões do [Xadrez](../../../08/06/atomo/Xadrez.md), o rei precisa guiar e
 
 # Segunda à quarta fileira
 Proteger as casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
-![Final de peão na segunda fileira](../../../../../excalidraw/2024/07/final_de_peao_2_fileira.excalidraw.md)
+![Final de peão na segunda fileira](final_de_peao_2_fileira.excalidraw.md)
 # Quinta e sexta fileira
 Proteger as duas casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
 

@@ -8,7 +8,7 @@ created_at: 2024-07-26T13:21:33-03:00
 updated_at: 2025-02-12T18:37:14-03:00
 ---
 
-No [[Toram]], o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
+No [[content/notas/2024/07/26/entrada/Toram]], o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
 
 > [!note] Observação
 > As informações são baseados no que os jogadores descobriram e alguma informação pode não estar certo!
@@ -61,7 +61,7 @@ Por exemplo, digamos que queremos calcular o valor de [ATK](../../09/entrada/Tor
 6. Calcule o [ATK](../../09/entrada/Toram_ATK.md) a partir do nível do personagem, resultado de (2) e (5).
 7. Aplique [ATK](../../09/entrada/Toram_ATK.md)% e [ATK](../../09/entrada/Toram_ATK.md)+ em (6), obtemos o [ATK](../../09/entrada/Toram_ATK.md) final.
 
-![Toram_status.excalidraw](../../../../../excalidraw/2024/07/Toram_status.excalidraw.md)
+![Toram_status.excalidraw](Toram_status.excalidraw.md)
 
 ## Referencia
 ---

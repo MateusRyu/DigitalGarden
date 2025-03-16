@@ -13,4 +13,4 @@ updated_at: 2025-02-14T16:16:55-03:00
 
 ---
 
-![Editor de propriedades assim que o blender é aberto pela primeira vez.](assets/images/2024/Blender_Editor_de_Propriedades.png)
+![Editor de propriedades assim que o blender é aberto pela primeira vez.](Blender_Editor_de_Propriedades.png)

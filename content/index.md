@@ -19,13 +19,13 @@ página atual.
 
 ## Mapas
 
-- [Animes](mapa/Animes.md);
-- [Auto_desenvolvimento](mapa/Auto_desenvolvimento.md);
-- [Desenvolvimento de software](mapa/Desenvolvimento_de_software.md);
-- [Fundamentos de TI](mapa/Fundamentos_de_TI.md);
-- [Habilidades](mapa/Habilidades.md);
-- [Livros](mapa/Livros.md);
-- [Meu Computador](mapa/Meu_Computador.md);
+- [Animes](Animes.md);
+- [Auto_desenvolvimento](Auto_desenvolvimento.md);
+- [Desenvolvimento de software](Desenvolvimento_de_software.md);
+- [Fundamentos de TI](Fundamentos_de_TI.md);
+- [Habilidades](Habilidades.md);
+- [Livros](Livros.md);
+- [Meu Computador](Meu_Computador.md);
 - [Psicologia](mapa/Psicologia.md);
 - [Toram](mapa/Toram.md);
 - [Xadrez](mapa/Xadrez.md);

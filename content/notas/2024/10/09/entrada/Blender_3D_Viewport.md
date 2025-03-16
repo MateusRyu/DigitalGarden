@@ -12,7 +12,7 @@ updated_at: 2025-02-14T16:15:27-03:00
 
 ---
 
-![3D Viewport assim que o blender é aberto pela primeira vez.](assets/images/2024/Blender_3D_Viewport.png)
+![3D Viewport assim que o blender é aberto pela primeira vez.](Blender_3D_Viewport.png)
 
 ## Navegação
 
