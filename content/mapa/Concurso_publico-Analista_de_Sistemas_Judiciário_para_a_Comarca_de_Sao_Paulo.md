@@ -130,7 +130,8 @@ Visa avaliar a habilidade do(a) candidato(a) em entender a estrutura lógica das
 | ------------------------------------------------------- | --------------- |
 | Início das inscrições 11.02.2025 Término das inscrições | 18.03.2025 | 
 | Vencimento do boleto bancário                           | 19.03.2025 | 
-| Divulgação no site da VUNESP sobre o recebimento da inscrição e respectivo pagamento 03 dias úteis após o pagamento do boleto Data prevista para aplicação da prova objetiva e da prova discursiva | 11.05.2025 | 
+| Divulgação no site da VUNESP sobre o recebimento da inscrição e respectivo pagamento | 03 dias úteis após o pagamento do boleto | 
+| Data prevista para aplicação da prova objetiva e da prova discursiva | 11.05.2025 | 
 | Data prevista para a divulgação do gabarito             | 14.05.2025 | 
 | Período previsto para o envio de títulos por upload     | A definir  |
 | Data prevista da divulgação do resultado final          | A definir  | 

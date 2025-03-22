@@ -5,6 +5,8 @@ tags:
 aliases:
   - Sistema Operacional
   - Sistemas operacionais
+  - sistema Operacional
+  - sistemas operacionais
 created_at: 2024-08-04T13:21:48-03:00
 updated_at: 2025-02-11T00:17:52-03:00
 ---

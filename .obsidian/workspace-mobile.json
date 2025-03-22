@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notas/2024/07/26/atomo/Xadrez_Ataque_Sodio.md",
-                "mode": "source",
+                "file": "content/mapa/Concurso_publico-Analista_de_Sistemas_Judiciário_para_a_Comarca_de_Sao_Paulo.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Xadrez_Ataque_Sodio"
+              "title": "Concurso_publico-Analista_de_Sistemas_Judiciário_para_a_Comarca_de_Sao_Paulo"
             }
           }
         ]
@@ -145,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,6 +157,7 @@
   },
   "active": "676da7cc267c6675",
   "lastOpenFiles": [
+    "content/notas/2024/07/26/atomo/Xadrez_Ataque_Sodio.md",
     "content/notas/2024/07/08/atomo/Linguagem_de_marcacao.md",
     "content/atomos/2024/07/08/Linguagens.md",
     "content/notas/2025/02/16/atomo/Metodologia_POWER.md",
