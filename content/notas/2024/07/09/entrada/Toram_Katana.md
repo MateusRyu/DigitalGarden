@@ -9,4 +9,4 @@ created_at: 2024-07-09T03:02:06-03:00
 updated_at: 2025-02-09T01:42:54-03:00
 ---
 
-[Toram](content/entrada/2024/07/26/Toram.md)
+[Toram](../../26/entrada/Toram.md)

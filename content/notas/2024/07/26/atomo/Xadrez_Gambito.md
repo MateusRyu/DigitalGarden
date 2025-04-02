@@ -4,6 +4,10 @@ tags:
   - Átomo
 aliases:
   - Gambitos
+  - gambitos
+  - Gambito
+  - gambito
+  - gambita
 created_at: 2024-07-26T13:21:33-03:00
 updated_at: 2025-02-09T20:03:07-03:00
 ---

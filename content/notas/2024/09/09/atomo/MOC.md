@@ -4,6 +4,7 @@ tags:
   - Átomo
 aliases:
   - MOC
+  - MOC's
   - Maps Of Content
   - Mapas de conteúdo
 draft: true

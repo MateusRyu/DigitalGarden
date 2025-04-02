@@ -4,6 +4,7 @@ tags:
   - Átomo
 aliases:
   - Explícitos
+  - explícito
 created_at: 2024-09-09T12:45:00-03:00
 updated_at: 2025-02-12T18:54:01-03:00
 ---

@@ -13,13 +13,17 @@ Nos de peões do [Xadrez](../../../08/06/atomo/Xadrez.md), o rei precisa guiar e
 
 # Segunda à quarta fileira
 Proteger as casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
-![Final de peão na segunda fileira](final_de_peao_2_fileira.excalidraw.md)
+
+![final de peão na 2 fileira](../../../../../excalidraw/2024/07/final_de_peao_2_fileira.excalidraw.svg)
+(Fonte: [autoria própria](final_de_peao_2_fileira.excalidraw.md))
+
 # Quinta e sexta fileira
 Proteger as duas casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
 
-![Final de peão na quinta fileira](../../../_excalidraw/final_de_peao_5_fileira.excalidraw.md)
+![final de peão na 5 fileira](../../../../../excalidraw/2024/07/final_de_peao_5_fileira.excalidraw.svg)
+(Fonte: [autoria própria](../../../../../excalidraw/2024/07/final_de_peao_5_fileira.excalidraw.md))
 ## Peão do cavalo na sexta fileira
-Quando o peão do [cavalo](content/atomos/2024/07/26/Xadrez_Cavalo.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
+Quando o peão do [cavalo](Xadrez_Cavalo.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
 
 ## Peão da torre na sexta fileira
 Proteger as duas últimas casas na coluna adjacente da promoção.

@@ -27,12 +27,12 @@ Utilizam bilhões ou até trilhões de parâmetros para personalizar e adaptar a
 ## Vantagens
 
 - **Versatilidade**: Podem ser adaptados para uma ampla gama de tarefas sem a necessidade de treinamento adicional específico.
-- **Precisão**: Modelos treinados em grandes quantidades de dados tendem a produzir resultados precisos e relevantes.
+- **Precisão**: Modelos treinados em grandes quantidades de dados tendem a produzir resultados [precisos](../../26/atomo/Precisão.md) e relevantes.
 - **Eficiência**: Podem automatizar tarefas repetitivas e demoradas, aumentando a produtividade.
 
 ## Desafios
 
 - **Custo Computacional**: Treinar e manter LLMs é extremamente caro em termos de recursos computacionais e energia.
-- **Bias e Ética**: Podem reproduzir vieses presentes nos dados de treinamento, levantando questões éticas.
+- **Viés e Ética**: Podem reproduzir vieses presentes nos dados de treinamento, levantando questões éticas.
 - **Interpretação**: Modelos complexos como os LLMs são frequentemente considerados "caixas-pretas", dificultando a interpretação de seus processos internos.
 - **Alucinação**:  LLMs não possuem nenhum conhecimento sobre o mundo real e por isso podem gerar respostas que podem se passar como verdadeiras mas que não condiz com a realidade ou com a requisição desejada.

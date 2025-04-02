@@ -4,6 +4,7 @@ tags:
   - Átomo
 aliases:
   - Hospedagem
+  - hospedagem
 created_at: 2024-07-26T13:21:33-03:00
 updated_at: 2025-02-14T16:06:28-03:00
 ---

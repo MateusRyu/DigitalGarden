@@ -5,26 +5,75 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:templates  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 1593856
+      }
+    },
+    {
+      "query": "[\"draft\":true]",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Saída  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Mapa  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#Retorno  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711925
+      }
+    },
+    {
+      "query": "tag:#Átomo  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "tag:#Entrada  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": 0.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.333333333333333,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.664337499494967,
+  "linkDistance": 30,
+  "scale": 0.18861219597353301,
   "close": true
 }

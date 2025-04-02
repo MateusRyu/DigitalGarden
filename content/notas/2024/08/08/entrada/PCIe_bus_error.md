@@ -22,15 +22,15 @@ Adicionar o parâmetro `pci=noaer
  GRUB_CMDLINE_LINUX_DEFAULT="quiet splash pci=noaer"
 ```
 
-### Desativando o [MSI](MSI.md)
-Adicionar o parâmetro `pci=nomsi`
+### Desativando o MSI
+Para desativar o [MSI](MSI.md), adicione o parâmetro `pci=nomsi`
 
 ```text
  GRUB_CMDLINE_LINUX_DEFAULT="quiet splash pci=nomsi"
 ```
 
-### Desativando o [mmconf](mmconf.md)
-Adicionar o parâmetro `pci=nommconf`
+### Desativando o mmconf
+Para desativar o [mmconf](mmconf.md), adicione o parâmetro `pci=nommconf`
 
 ```text
  GRUB_CMDLINE_LINUX_DEFAULT="quiet splash pci=nommconf"
