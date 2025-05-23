@@ -26,7 +26,7 @@ O [ssh-agent](../../08/Entrada/ssh_agent.md) é um programa que registra e armaz
 1. Verifique se ele está em execução:
 	- No [Linux](../entrada/Linux.md) ou [Mac](../../12/entrada/Mac.md): 
 	```shell
-	eval "$(ssh-agent -s)" # for Mac and Linux`
+	eval "$(ssh-agent -s)" # for Mac and Linux
 	```
 	-  No [Windows](../entrada/Windows.md):
 	```shell
