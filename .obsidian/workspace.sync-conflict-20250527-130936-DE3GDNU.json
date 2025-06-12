@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "47431217505b11ff",
+        "id": "ffa37838568e8b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "d2393774b6eac307",
+            "id": "4b02d8bcf5c59a47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jala-Cognicao_e_metacognicao.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jala-Cognicao_e_metacognicao"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -88,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jala-Cognicao_e_metacognicao.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,9 +96,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -2.9,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -116,7 +111,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Jala-Cognicao_e_metacognicao"
+              "title": "Graph view"
             }
           }
         ]
@@ -139,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notas/2024/07/26/atomo/SSH.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SSH"
+              "title": "Backlinks"
             }
           },
           {
@@ -200,43 +194,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d2393774b6eac307",
+  "active": "4b02d8bcf5c59a47",
   "lastOpenFiles": [
-    "Jala-Cognicao_e_metacognicao.md",
-    "content/notas/2024/07/08/atomo/Memoria_de_longo_prazo.md",
-    "content/notas/2024/07/12/atomo/Memoria_de_curto_prazo.md",
-    "Efeito_pigmaleao.md",
-    "Reunião Jala.md",
-    "Jala_University-Engenharia_de_Software.md",
-    "content/notas/2024/07/08/atomo/Markdown.md",
-    "content/notas/2024/07/08/Entrada/Obsidian.md",
-    "content/notas/2025/03/30/entrada/Krita.md",
-    "content/notas/2024/07/26/atomo/SSH.md",
-    "content/notas/2024/07/08/Entrada/ssh_agent.md",
-    "Pasted image 20250512154405.png",
-    "Pasted Image 20250507015520_828.png",
-    "Pasted image 20250507015454.png",
-    "Pasted image 20250507015436.png",
-    "Jala University - Curso de admissão da Engenharia de Software.md",
-    "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md",
-    "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.svg",
-    "Pasted image 20250507015500.png",
-    "Jala University.md",
     "Zorin OS.md",
     "content/notas/2024/07/14/entrada/Zorin_OS_Lite.md",
     "content/notas/2024/07/13/entrada/Mechanical_Rhapsody.md",
@@ -245,11 +218,25 @@
     "content/mapa/Meu_Computador.md",
     "content/notas/2024/08/08/entrada/MSI.md",
     "content/notas/2024/08/08/entrada/PCIe_bus_error.md",
+    "content/notas/2025/03/30/entrada/Krita.md",
     "content/notas/2024/07/26/entrada/Blender.md",
     "content/notas/2024/10/09/atomo/Blocagem.md",
     "content/notas/2025/03/30/atomo/Desenho.md",
     "content/notas/2025/03/30/atomo/pintura.md",
+    "content/notas/2025/03/30/atomo/artes_visuais.md",
+    "código aberto.md",
+    "content/docs/mapas.md",
+    "content/notas/2024/07/26/entrada/MPD.md",
+    "content/notas/2025/03/30/atomo/Reprodutor_de_musicas.md",
+    "content/notas/2025/03/30/atomo/Arquitetura_cliente_servidor.md",
+    "content/notas/2025/03/30/atomo/musica.md",
+    "content/notas/2024/07/12/atomo/Xadrez_Sistema_dos_Quatro_Cavalos.md",
+    "content/notas/2024/07/10/atomo/Taoismo_Trigramas.md",
+    "content/excalidraw/2024/07/trigrama_calculo.excalidraw.md.md",
     "content/excalidraw/2024/07/trigrama_calculo.excalidraw.md.svg",
+    "content/notas/2024/07/10/atomo/Taoismo.md",
+    "content/notas/2024/10/05/entrada/Conceptual_data_structures_for_personal_knowledge_management.md",
+    "content/notas/2024/07/12/atomo/Xadrez_Defesa_Ingles.md",
     "content/notas/2025/03/30/entrada",
     "content/notas/2025/03/30/atomo",
     "content/notas/2025/03/30",
@@ -262,6 +249,7 @@
     "content/atomos/2024",
     "content/atomos",
     "content/excalidraw/2024/07/final_de_peao_5_fileira.excalidraw.svg",
+    "Excalidraw/zsh_startup.excalidraw.svg",
     "Excalidraw"
   ]
 }
