@@ -1,19 +1,36 @@
 ---
 title: "Jala: Cognição e metacognição"
 tags:
-  - 
+  - Entrada
 aliases:
-  - "Cognição e metacognição"
+  - Cognição e metacognição
 draft: true
-created_at: "2025-06-10T01:24:37-03:00"
+created_at: 2025-06-10T01:24:37-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
 
+> [!note]
+> Anotação da aula do módulo de [[Habilidades comportamentais e interpessoais (2025)]] do aquecimento do  curso de [Engenharia de Software](../../../05/07/entrada/Jala_University-Engenharia_de_Software.md) da [Jala University](../../../05/07/entrada/Jala%20University.md) com algumas adições pessoais que acredito que possa agregar na anotação.
+
+---
 
 # Cognição e metacognição
-## Como aprendemos
+## Dificuldade no aprendizado
+Muitas vezes, nosso próprio conhecimento sobre a forma como aprendemos e sobre o aprendizado em geral é ignorado ou temos a percepção equivocada sobre ela. Muitos confundem a dificuldade no avanço do aprendizado com a falta de vocação para aquele assunto ou fazem uso de estratégias de aprendizados ineficientes como o reforço por repetição. No primeiro exemplo, a falta do avanço pode ser motivado tanto por uma crença limitante que bloqueia o aprendizado (ou talvez o [efeito pigmaleão](../atomo/Efeito_pigmaleao.md)) como também pode ser por causa de uma estratégia de aprendizado inadequado para aquela pessoa ou para aquele conteúdo. O segundo exemplo é um erro clássico de confundir a memorização com o aprendizado, visto que a memorização é uma fixação de uma determinada informação na memória mas que não ajuda na aplicação da informação em contextos semelhantes ao que foi memorizado e impedem a adaptação dessa informação.
 
-Muitas vezes, nosso próprio conhecimento sobre a forma como aprendemos e sobre o aprendizado em geral é ignorado ou temos a percepção equivocada sobre ela. Muitos confundem a dificuldade no avanço do aprendizado com a falta de vocação para aquele assunto ou fazem uso de estratégias de aprendizados ineficientes como o reforço por repetição. No primeiro exemplo, a falta do avanço pode ser motivado tanto por uma crença limitante que bloqueia o aprendizado (ou talvez o [efeito pigmaleão](Efeito_pigmaleao.md)) como também pode ser por causa de uma estratégia de aprendizado inadequado para aquela pessoa ou para aquele conteúdo. O segundo exemplo é um erro clássico de confundir a memorização com o aprendizado, visto que a memorização é uma fixação de uma determinada informação na memória mas que não ajuda na aplicação da informação em contextos semelhantes ao que foi memorizado e impedem a adaptação dessa informação.
+## Cognição
+A [cognição](../../17/atomo/Cognicao.md) é o processo pelo qual os seres percebem e interpretam o mundo, permitindo que eles: 
+ - Tenham uma consciência do ambiente e do contexto pela sua **percepção**;
+ - Foquem no que é importante ser percebido e ignorem o que não é relevante;
+ - Codifiquem as informações adquiridas em memórias (de longo ou curto prazo) que poderão ser recuperados;
+ - Aprendam a como interagir e se adaptar com o meio externo;
+ - Formulem pensamentos e raciocínios;
+
+## Metacognição
+A [metacognição](../../../../../../Metacognicao.md) é a habilidade de ter consciência da cognição para refletir ou regular alguns processos cognitivos para obter uma melhor performance. A metacognição também engloba o conhecimento sobre:
+ - **Sim mesmo**: Quais suas capacidades e limitações cognitivas (por exemplo, "sou bom em lembrar rostos, mas esqueço nomes").
+ - **Tarefas**: O grau de exigência de determinados processos cognitivos que uma certa tarefa pode demandar (por exemplo, "Ler um livro de matemática vai exigir mais atenção do que ler um livro de ficção").
+ - **Estratégias**: A capacidade de conhecer a forma como um processo cognitivo pode ser executado e assim podendo escolher a estratégia mais adequada para as diferentes situações
 
 ## Como aprendemos?
 A teoria real é mais complexa e envolve mais fatores, mas podemos simplificar na seguinte estrutura que será exemplificado com uma analogia com a formação de uma biblioteca nova. 

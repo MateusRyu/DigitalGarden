@@ -14,7 +14,7 @@ Dual boot com a [Pasta home](../notas/2024/07/14/atomo/Pasta_home.md) compartilh
 
 ## Particionamento
 - `sda1`: `/boot/efi`
-- `sda2`: `/` (~~[Crystal_Linux](../notas/2024/08/10/entrada/Crystal_Linux.md)~~ [Zorin OS](../../Zorin%20OS.md))
+- `sda2`: `/` (~~[Crystal_Linux](../notas/2024/08/10/entrada/Crystal_Linux.md)~~ [Zorin OS](../notas/2025/03/31/entrada/Zorin%20OS.md))
 - `sda3`: `/` ([NixOS](../notas/2025/02/14/entrada/NixOS.md))
 - `sda4`: [SWAP](../notas/2024/07/14/atomo/SWAP.md)
 -  `sda6`: `/home` 

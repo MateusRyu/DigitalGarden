@@ -4,6 +4,9 @@ tags:
   - Entrada
 aliases:
   - Sintaxe
+  - Sintaxe do Obssidian
+  - sintaxe
+  - sintaxe do Obssidian
 created_at: 2024-07-12T19:18:56-03:00
 updated_at: 2025-02-14T16:34:25-03:00
 ---

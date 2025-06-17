@@ -1,6 +1,7 @@
 ---
 title: Reunião Jala
-tags: 
+tags:
+  - Entrada
 aliases:
   - Reunião Jala
 draft: true
