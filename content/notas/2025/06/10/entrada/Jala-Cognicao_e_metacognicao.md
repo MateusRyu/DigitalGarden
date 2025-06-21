@@ -27,7 +27,7 @@ A [cognição](../../17/atomo/Cognicao.md) é o processo pelo qual os seres perc
  - Formulem pensamentos e raciocínios;
 
 ## Metacognição
-A [metacognição](../../../../../../Metacognicao.md) é a habilidade de ter consciência da cognição para refletir ou regular alguns processos cognitivos para obter uma melhor performance. A metacognição também engloba o conhecimento sobre:
+A [metacognição](../../17/atomo/Metacognicao.md) é a habilidade de ter consciência da cognição para refletir ou regular alguns processos cognitivos para obter uma melhor performance. A metacognição também engloba o conhecimento sobre:
  - **Sim mesmo**: Quais suas capacidades e limitações cognitivas (por exemplo, "sou bom em lembrar rostos, mas esqueço nomes").
  - **Tarefas**: O grau de exigência de determinados processos cognitivos que uma certa tarefa pode demandar (por exemplo, "Ler um livro de matemática vai exigir mais atenção do que ler um livro de ficção").
  - **Estratégias**: A capacidade de conhecer a forma como um processo cognitivo pode ser executado e assim podendo escolher a estratégia mais adequada para as diferentes situações

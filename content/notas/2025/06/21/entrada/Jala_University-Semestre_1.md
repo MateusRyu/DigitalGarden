@@ -14,7 +14,7 @@ updated_at: 2025-02-14T16:03:32-03:00
 
 | Tipo | Código                                                  | Curso                                                 | Créditos | Pré-requisitos |
 | ---- | ------------------------------------------------------- | ----------------------------------------------------- | -------- | -------------- |
-| EG   | [MATH-111](../../../../../../Jala_University-Logica.md) | [Lógica](../../../../../../Jala_University-Logica.md) | 3        | Nenhum         |
+| EG   | [MATH-111](content/notas/2025/06/20/entrada/Jala_University-Logica.md) | [Lógica](content/notas/2025/06/20/entrada/Jala_University-Logica.md) | 3        | Nenhum         |
 | LC   | CSPR-111                                                | Programação 1                                         | 2        | Nenhum         |
 | EG   | HIST-111                                                | História da Engenharia de Software                    | 2        | Nenhum         |
 | LC   | CSOS-112                                                | Sistemas operacionais 1                               | 2        | Nenhum         |

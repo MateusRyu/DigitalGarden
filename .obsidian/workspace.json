@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jala_University-Semestre_1.md",
+                "file": "content/notas/2025/06/17/atomo/Metacognicao.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jala_University-Semestre_1"
+              "title": "Metacognicao"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jala_University-Logica.md",
+                "file": "content/notas/2025/06/20/entrada/Jala_University-Logica.md",
                 "mode": "preview",
                 "source": true
               },
@@ -49,7 +49,8 @@
               "title": "Jala_University-Logica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
+                "file": "content/notas/2025/06/17/atomo/Metacognicao.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Jala_University-Engenharia_de_Software"
+              "title": "Graph of Metacognicao"
             }
           }
         ]
@@ -243,19 +244,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5195e31f07bf8a86",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "Jala_University-Semestre_1.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Semestre_1.md",
+    "content/notas/2025/06/20/entrada/Jala_University-Logica.md",
+    "content/notas/2025/06/21/entrada",
+    "content/notas/2025/06/21",
+    "content/notas/2025/06/17/atomo/Metacognicao.md",
+    "content/notas/2025/06/20/entrada",
+    "content/notas/2025/06/20",
+    "Reunião Jala.md",
     "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
-    "Jala_University-Logica.md",
     "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md",
     "content/notas/2025/06/10/entrada/Jala-Cognicao_e_metacognicao.md",
-    "Metacognicao.md",
     "content/notas/2025/06/17/atomo/Cognicao.md",
     "content/notas/2025/06/10/atomo/Efeito_pigmaleao.md",
     "content/notas/2025/06/17/atomo",
     "content/notas/2025/06/17",
-    "Reunião Jala.md",
     "content/notas/2025/06/10/atomo",
     "content/notas/2025/05/12/entrada/Jala University - Curso de admissão da Engenharia de Software.md",
     "content/notas/2025/05/07/entrada/Jala University.md",
@@ -271,10 +276,6 @@
     "content/assets/images/2024/Pasted Image 20240613173345_877.png",
     "content/assets/images/2024/Pasted Image 20240613172503_261.png",
     "content/assets/images/2025/Pasted image 20250507015436.png",
-    "content/assets/images/2025",
-    "content/notas/2025/05/12/entrada",
-    "content/notas/2025/05/12",
-    "content/notas/2025/05/07/entrada",
     "content/notas/2025/03/21/entrada/UNIX.md",
     "content/notas/2024/07/12/entrada/Obsidian_Sintaxe.md",
     "Pasted Image 20250507015520_828.png",
@@ -287,7 +288,6 @@
     "content/notas/2024/07/08/Entrada/Obsidian.md",
     "content/notas/2025/03/30/entrada/Krita.md",
     "content/notas/2024/07/26/atomo/SSH.md",
-    "content/notas/2024/07/08/Entrada/ssh_agent.md",
     "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.svg",
     "content/excalidraw/2024/07/trigrama_calculo.excalidraw.md.svg",
     "content/excalidraw/2024/07/Garyou_Tensei_Player.excalidraw.svg"

@@ -62,7 +62,7 @@ Fonte: [Jala University](Excalidraw/Jala-Engenharia_software-Curso_admissao-Regr
 ### Grade Curricular
 
 #### Semestre 1
-![Jala_University-Semestre_1](../../../../../../Jala_University-Semestre_1.md#^tabela)
+![Jala_University-Semestre_1](../../../06/21/entrada/Jala_University-Semestre_1.md#^tabela)
 
 #### Semestre 2
 
