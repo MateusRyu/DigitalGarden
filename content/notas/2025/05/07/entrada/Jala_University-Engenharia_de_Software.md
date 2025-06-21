@@ -5,7 +5,7 @@ tags:
 aliases:
   - "Jala University: Engenharia de Software"
   - Engenharia de Software
-draft: true
+draft: false
 created_at: 2025-05-07T01:37:36-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
@@ -62,64 +62,83 @@ Fonte: [Jala University](Excalidraw/Jala-Engenharia_software-Curso_admissao-Regr
 ### Grade Curricular
 
 #### Semestre 1
-
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-| EG | MATH-111 | Lógica | 3 | Nenhum |
-| LC | CSPR-111 | Programação 1 | 2 | Nenhum |
-| EG | HIST-111 | História da Engenharia de Software | 2 | Nenhum |
-| LC | CSOS-112 | Sistemas operacionais 1 | 2 | Nenhum |
-| EG | MATH-112 | Matemática Discreta | 3 | Nenhum |
-| LC | CSDB-112 | Banco de dados 1 | 2 | Nenhum |
-| LC | CSSD-113 | Desenvolvimento de Software 1 | 3 | CSPR-111 |
-| EG | MATH-113 | Cálculo I | 3 | Nenhum |
-EG: Educação Geral; LC: Laboratório Central
+![Jala_University-Semestre_1](../../../../../../Jala_University-Semestre_1.md#^tabela)
 
 #### Semestre 2
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-| EG | MATH-124 | Álgebra linear | 3 | MATH-112 |
-| LC | CSPR-124 | Programação 2 | 3 | CSPR-111 |
-| LC | CSOS-124 | Sistemas operacionais 2 | 2 | CSOS-112 |
-| LC | CSDB-125 | Banco de dados 2 | 2 | CSDB-112 |
-| LC | CSSD-125 | Desenvolvimento de Software 2 | 3 | CSPR-124, CSSD-113, CSDB-112 |
-| EG | COMM-118 | Comunicação 1 | 3 | Nenhum |
-| EG | MATH-126 | Cálculo 2 | 3 | MATH-113 |
-EG: Educação Geral; LC: Laboratório Central
+| Tipo                | Código   | Curso                         | Créditos | Pré-requisitos               |
+| ------------------- | -------- | ----------------------------- | -------- | ---------------------------- |
+| Educação Geral      | MATH-124 | Álgebra linear                | 3        | MATH-112                     |
+| Laboratório Central | CSPR-124 | Programação 2                 | 3        | CSPR-111                     |
+| Laboratório Central | CSOS-124 | Sistemas operacionais 2       | 2        | CSOS-112                     |
+| Laboratório Central | CSDB-125 | Banco de dados 2              | 2        | CSDB-112                     |
+| Laboratório Central | CSSD-125 | Desenvolvimento de Software 2 | 3        | CSPR-124, CSSD-113, CSDB-112 |
+| Educação Geral      | COMM-118 | Comunicação 1                 | 3        | Nenhum                       |
+| Educação Geral      | MATH-126 | Cálculo 2                     | 3        | MATH-113                     |
 
 #### Semestre 3
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-|  |  |  | 3 | Nenhum |
+| Tipo                | Código   | Curso                                 | Créditos | Pré-requisitos               |
+| ------------------- | -------- | ------------------------------------- | -------- | ---------------------------- |
+| Laboratório Central | CSPR-231 | Programação 3                         | 2        | CSPR-124                     |
+| Educação Geral      | COMM-127 | Comunicação 2                         | 3        | COMM-118                     |
+| Central             | CSSQ-231 | Engenharia de Qualidade de Software 1 | 3        | Nenhum                       |
+| Laboratório Central | CSSD-232 | Desenvolvimento de Software 3         | 3        | CSPR-231, CSSD-125, CSDB-125 |
+| Central             | CSNT-232 | Redes de Computadores 1               | 2        | CSOS-124                     |
+| Laboratório Central | CSSQ-233 | Engenharia de Qualidade de Software 2 | 2        | CSSQ-231                     |
+| Educação Geral      | MATH-233 | Estatística                           | 3        | MATH-113                     |
+| Educação Geral      | WRIT-219 | Redação e Composição 1                | 3        | Nenhum                       |
 
 #### Semestre 4
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-|  |  |  | 3 | Nenhum |
+| Tipo                | Código   | Curso                                 | Créditos | Pré-requisitos                         |
+| ------------------- | -------- | ------------------------------------- | -------- | -------------------------------------- |
+| Laboratório Central | CSPR-244 | Programação 4                         | 3        | CSPR-231, CSSD-232 CSDB-125 (opcional) |
+| Central             | CSAL-244 | Algoritmos 1                          | 3        | Nenhum                                 |
+| Educação Geral      | WRIT-229 | Redação e Composição 2                | 3        | WRIT-219                               |
+| Laboratório Central | CSNT-245 | Redes de Computadores 2               | 2        | CSNT-232, CSPR-231                     |
+| Laboratório Central | CSSD-245 | Desenvolvimento de Software 4         | 3        | CSPR-244, CSSD-232                     |
+| Laboratório Central | CSDV-246 | Desenvolvimento & Operações           | 2        | CSSD-232, CSPR-244, CSDB-112           |
+| Laboratório Central | CSSQ-246 | Engenharia de Qualidade de Software 3 | 2        | CSSQ-233                               |
 
 #### Semestre 5
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-|  |  |  | 3 | Nenhum |
+| Tipo                      | Código   | Curso                                                   | Créditos | Pré-requisitos                         |
+| ------------------------- | -------- | ------------------------------------------------------- | -------- | -------------------------------------- |
+| Laboratório Especializado | CSPR-351 | Programação 5                                           | 3        | CSPR-244, CSDB-125, CSSD-245, CSAL-244 |
+| Laboratório Especializado | CSAR-351 | Arquitetura de Software 1                               | 2        | CSSD-245                               |
+| Laboratório Central       | CSAL-351 | Algorítmicos 2                                          | 2        | CSAL-244                               |
+| Laboratório Especializado | CSDS-352 | Introdução à Ciência de Dados e Machine Learning        | 2        | MATH-113 MATEMÁTICA-124 CSAL-244       |
+| Laboratório Especializado | CSSD-352 | Desenvolvimento de Software 5                           | 3        | CSPR-351, CSSD-245                     |
+| Laboratório Especializado | CSIO-353 | Internet das Coisas                                     | 2        |                                        |
+| Laboratório Especializado | CSAI-353 | Aprendizado Profundo/Inteligência Artificial Generativa | 2        | MATH-124, CSDS-352                     |
 
 #### Semestre 6
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-|  |  |  | 3 | Nenhum |
+| Tipo                      | Código   | Curso                                                   | Créditos | Pré-requisitos                |
+| ------------------------- | -------- | ------------------------------------------------------- | -------- | ----------------------------- |
+| Laboratório Especializado | CSPR-364 | Programação 6                                           | 3        | CSPR-351, CSDB-125, CSSD-245, |
+| Laboratório Especializado | CSAR-364 | Arquitetura de Software 2                               | 2        | CSAR-351                      |
+| Laboratório Especializado | CSUX-364 | Design de Interface do Usuário e Experiência do Usuário | 2        | Nenhum                        |
+| Laboratório Especializado | CSSD-365 | Desenvolvimento de Software 6                           | 3        | CSPR-364, CSSD-352            |
+| Laboratório Especializado | CSWB-366 | Desenvolvimento Web                                     | 2        | CSPR-351, CSSD-352            |
+| Especialização            | CSPR-366 | Linguagens de Programação                               | 2        | CSPR-351, CSWB-366            |
+| Laboratório Central       | CSSA-366 | Administração de Sistemas                               | 2        | CSDV-246, CSOS-124            |
 
 #### Semestre 7
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-|  |  |  | 3 | Nenhum |
+| Tipo                      | Código   | Curso                                | Créditos | Pré-requisitos    |
+| ------------------------- | -------- | ------------------------------------ | -------- | ----------------- |
+| Laboratório Especializado | CSPR-471 | Programação 7                        | 3        | CSPR-364          |
+| Laboratório Especializado | CSAR-484 | Arquitetura de Software 3            | 2        | CSAR-364          |
+| Laboratório Especializado | CSAR-486 | Arquitetura de Software 4            | 2        | CSAR-484          |
+| Especialização            | CSWB-473 | Desenvolvimento de Aplicações Mobile | 2        | CSWB-366          |
+| Laboratório Especializado | CSRP-486 | Projetos de Software e Startups      | 2        | CSSD-365 CSAR-486 |
 
 #### Semestre 8
 
-| Tipo | Código | Curso | Créditos | Pré-requisitos |
-| ---  |   ---  |  ---  |   ---    |     ---        |
-|  |  |  | 3 | Nenhum |
+| Tipo    | Código   | Curso                                                   | Créditos | Pré-requisitos |
+| ------- | -------- | ------------------------------------------------------- | -------- | -------------- |
+| Estágio | CSRP-471 | Projeto de Pesquisa sobre Desenvolvimento de Software 1 | 4        | Nenhum         |
+| Estágio | CSRP-472 | Projeto de Pesquisa sobre Desenvolvimento de Software 2 | 4        | CSRP-471       |
+| Estágio | CSRP-484 | Projeto de Pesquisa sobre Desenvolvimento de Software 3 | 4        | CSRP-472       |
