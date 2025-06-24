@@ -13,9 +13,9 @@ updated_at: 2025-02-14T16:03:32-03:00
 # Curso de Lógica
 
 ## Especificações
-| Semestre | Nome do Curso | Categoria      | Código   | Horas de Crédito |
-| -------- | ------------- | -------------- | -------- | ---------------- |
-| 1        | Lógica        | Educação Geral | MATH-111 | 3                |
+| Semestre | Nome do Curso | Categoria                                                             | Código   | Horas de Crédito |
+| -------- | ------------- | --------------------------------------------------------------------- | -------- | ---------------- |
+| 1        | Lógica        | [Educação Geral](../../21/entrada/Jala_University-Educacao_Geral.md) | MATH-111 | 3                |
 
 ## Pré-requisitos
 Nenhum.

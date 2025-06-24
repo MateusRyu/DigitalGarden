@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d2393774b6eac307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/mapa/Jala_University-Engenharia_de_Software-Semestre_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jala_University-Engenharia_de_Software-Semestre_2"
+            }
+          },
+          {
             "id": "5195e31f07bf8a86",
             "type": "leaf",
             "state": {
@@ -22,35 +36,31 @@
             }
           },
           {
-            "id": "05f34e199d7594c9",
+            "id": "2e5d6d89a39ab2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notas/2025/06/17/atomo/Metacognicao.md",
+                "file": "Jala_University-Banco_de_dados_2.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Metacognicao"
+              "title": "Jala_University-Banco_de_dados_2"
             }
           },
           {
-            "id": "d2393774b6eac307",
+            "id": "a341c1ce2577ce0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notas/2025/06/20/entrada/Jala_University-Logica.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jala_University-Logica"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +81,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -117,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notas/2025/06/17/atomo/Metacognicao.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,14 +154,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Metacognicao"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 418.5,
+    "collapsed": true
   },
   "right": {
     "id": "70366b6089a4156a",
@@ -244,50 +254,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8afc08e9adc94d60",
+  "active": "a341c1ce2577ce0c",
   "lastOpenFiles": [
-    "content/notas/2025/06/21/entrada/Jala_University-Semestre_1.md",
+    "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
+    "Jala_University-Banco_de_dados_2.md",
+    "content/mapa/Jala_University-Engenharia_de_Software-Semestre_2.md",
+    "Jala_University-Sistemas_operacionais_2.md",
+    "Jala_University-Programacao_2.md",
+    "Jala_University-algebra_linear.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Sistemas_operacionais_1.md",
+    "Jala_University-Estagio.md",
+    "Jala_University-Especializacao.md",
+    "Jala University - Laboratório Especializado.md",
+    "Jala - Central.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Calculo_I.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Programacao_1.md",
+    "content/mapa/Jala_University-Engenharia_de_Software-Semestre_1.md",
+    "Reunião Jala.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Laboratorio_Central.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Desenvolvimento_de_Software_1.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Banco_de_dados_1.md",
     "content/notas/2025/06/20/entrada/Jala_University-Logica.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Educacao_Geral.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Matematica_Discreta.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Historia_da_Engenharia_de_Software.md",
+    "MATH-113.md",
+    "Untitled.md",
+    "content/notas/2025/06/21/entrada/Jala_University-Semestre_1.md",
+    "content/notas/2025/06/17/atomo/Metacognicao.md",
     "content/notas/2025/06/21/entrada",
     "content/notas/2025/06/21",
-    "content/notas/2025/06/17/atomo/Metacognicao.md",
     "content/notas/2025/06/20/entrada",
     "content/notas/2025/06/20",
-    "Reunião Jala.md",
-    "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
-    "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md",
-    "content/notas/2025/06/10/entrada/Jala-Cognicao_e_metacognicao.md",
-    "content/notas/2025/06/17/atomo/Cognicao.md",
-    "content/notas/2025/06/10/atomo/Efeito_pigmaleao.md",
     "content/notas/2025/06/17/atomo",
     "content/notas/2025/06/17",
     "content/notas/2025/06/10/atomo",
-    "content/notas/2025/05/12/entrada/Jala University - Curso de admissão da Engenharia de Software.md",
-    "content/notas/2025/05/07/entrada/Jala University.md",
-    "content/notas/2025/03/31/entrada/Zorin OS.md",
-    "content/notas/2025/03/31/atomo/streaming.md",
-    "content/notas/2025/03/31/atomo/podcasts.md",
     "content/notas/2025/03/31/entrada",
-    "content/notas/2025/03/30/entrada/The_Unattended.md",
-    "content/notas/2025/03/30/entrada/Spotify.md",
     "content/notas/2025/03/31/atomo",
     "content/notas/2025/03/31",
     "content/assets/images/2025/Pasted image 20250512154405.png",
     "content/assets/images/2024/Pasted Image 20240613173345_877.png",
     "content/assets/images/2024/Pasted Image 20240613172503_261.png",
     "content/assets/images/2025/Pasted image 20250507015436.png",
-    "content/notas/2025/03/21/entrada/UNIX.md",
-    "content/notas/2024/07/12/entrada/Obsidian_Sintaxe.md",
     "Pasted Image 20250507015520_828.png",
     "Pasted image 20250507015454.png",
     "Pasted image 20250507015500.png",
-    "content/notas/2024/07/26/entrada/Toram_Status.md",
-    "content/notas/2024/07/08/atomo/Markdown.md",
-    "content/notas/2024/07/08/atomo/Memoria_de_longo_prazo.md",
-    "content/notas/2024/07/12/atomo/Memoria_de_curto_prazo.md",
-    "content/notas/2024/07/08/Entrada/Obsidian.md",
-    "content/notas/2025/03/30/entrada/Krita.md",
-    "content/notas/2024/07/26/atomo/SSH.md",
     "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.svg",
     "content/excalidraw/2024/07/trigrama_calculo.excalidraw.md.svg",
     "content/excalidraw/2024/07/Garyou_Tensei_Player.excalidraw.svg"

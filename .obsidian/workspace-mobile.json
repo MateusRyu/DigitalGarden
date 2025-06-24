@@ -11,14 +11,10 @@
             "id": "676da7cc267c6675",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jala-Cognicao_e_metacognicao.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jala-Cognicao_e_metacognicao"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -157,6 +153,7 @@
   },
   "active": "676da7cc267c6675",
   "lastOpenFiles": [
+    "content/notas/2025/06/21/entrada/Jala_University-Matematica_Discreta.md",
     "Jala University.md",
     "Jala_University-Engenharia_de_Software.md",
     "Jala University - Curso de admissão da Engenharia de Software.md",
@@ -182,7 +179,6 @@
     "content/docs/routes.md",
     "content/notas/2024/07/18/atomo/LLM.md",
     "content/notas/2024/07/26/atomo/Precisão.md",
-    "content/docs/index.md",
     "content/atomos/2024/07/26",
     "content/atomos/2024/07",
     "content/atomos/2024",
