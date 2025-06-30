@@ -13,9 +13,9 @@ Mapa de módulos do Programa de graduação de [Engenharia de Software](../../..
 - [Programação 6](../notas/2025/06/27/entrada/Jala_University-Programacao_6.md);
 - [Arquitetura de Software 2](../notas/2025/06/28/entrada/Jala_University-Arquitetura_de_Software_2.md);
 - [Design de Interface do Usuário e Experiência do Usuário](../notas/2025/06/29/entrada/Jala_University-Design_de_Interface_do_Usuario_e_Experiencia_do_Usuario.md);
-- [Jala_University-Desenvolvimento_de_Software_6](../../Jala_University-Desenvolvimento_de_Software_6.md);
-- [Desenvolvimento Web](../../Jala_University-Desenvolvimento_Web.md);
-- [Linguagens de Programação](../../Jala_University-Linguagens_de_Programacao.md);
-- [Administração de Sistemas](../../Jala_University-Administracao_de_Sistemas.md);
+- [Jala_University-Desenvolvimento_de_Software_6](../notas/2025/06/29/entrada/Jala_University-Desenvolvimento_de_Software_6.md);
+- [Desenvolvimento Web](../notas/2025/06/29/entrada/Jala_University-Desenvolvimento_Web.md);
+- [Linguagens de Programação](../notas/2025/06/29/entrada/Jala_University-Linguagens_de_Programacao.md);
+- [Administração de Sistemas](../notas/2025/06/29/entrada/Jala_University-Administracao_de_Sistemas.md);
 
 Próximo semestre: [Jala University - Engenharia de Software (Semestre 7)](Jala_University-Engenharia_de_Software-Semestre_7.md)

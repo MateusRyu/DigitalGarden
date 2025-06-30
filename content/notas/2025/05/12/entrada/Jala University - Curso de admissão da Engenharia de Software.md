@@ -15,8 +15,8 @@ updated_at: 2025-02-14T16:03:32-03:00
 ---
 
 ## Módulo 1 - Introdução à programação
-### Apresentação do curso de admissão
 ### Fundamentos da programação
+- [Programação](../../../06/30/atomo/Programação.md)
 ### Programação básica
 ### Estruturas de controle
 
