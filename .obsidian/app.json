@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "livePreview": false,
+  "livePreview": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative"
 }

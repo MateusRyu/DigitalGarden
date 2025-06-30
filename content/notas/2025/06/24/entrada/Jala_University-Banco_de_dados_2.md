@@ -6,7 +6,7 @@ aliases:
   - Jala University - Banco de dados 2
   - Banco de dados 2
   - CSDB-125
-draft: true
+draft: false
 created_at: 2025-06-24T00:48:03-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---

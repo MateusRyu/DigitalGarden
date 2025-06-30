@@ -24,7 +24,4 @@ Nenhum.
 ## Descrição
 
 > [!quote] Catálogo Estudantil - Jala (2025-2026)
-> A Engenharia de Software é um campo acadêmico recente. Ela evoluiu dentro dos Departamentos de Matemática ou Eletrônica no início, com o nome de Ciência da Computação. No nome, já se pode perceber que estava mais relacionada ao hardware do que ao software. À medida que a tecnologia evoluiu e o foco se deslocou mais para o software do que para o hardware (que se tornou mais barato e mais poderoso), tornou-se evidente que era mais importante organizar o ciclo de vida do desenvolvimento de software, pois softwares mais complexos eram necessários para atender às necessidades de organizações e empresas. O surgimento do novo campo da engenharia de software era inevitável. É informativo, motivador e inspirador revisar alguns momentos importantes na evolução da engenharia de software.
-
----
-
+> Este curso investiga a rica história da engenharia de software, traçando seu desenvolvimento desde as primeiras linguagens de programação e teorias fundamentais até as tendências modernas em sistemas de software comercial. Os alunos explorarão o contexto histórico, as inovações tecnológicas e as figuras influentes que moldaram a evolução da engenharia de software. A ênfase é colocada na interseção da descoberta científica e dos valores humanos, promovendo uma compreensão mais ampla de como a engenharia de software influencia e é influenciada pelo mundo ao seu redor.

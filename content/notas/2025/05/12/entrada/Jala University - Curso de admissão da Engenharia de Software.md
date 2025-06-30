@@ -5,6 +5,7 @@ tags:
 aliases:
   - "Jala University: Curso de admissão da Engenharia de Software"
   - Curso de admissão
+  - Curso de admissão da Engenharia de Software
 draft: true
 created_at: 2025-05-12T15:08:03-03:00
 updated_at: 2025-02-14T16:03:32-03:00
