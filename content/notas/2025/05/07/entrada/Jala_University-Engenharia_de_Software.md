@@ -10,7 +10,7 @@ created_at: 2025-05-07T01:37:36-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
 
-A [Jala University](content/notas/2025/05/07/entrada/Jala%20University.md) tem um programa de graduação em Engenharia de Software. Entre os diferenciais do projeto destacam-se a formação com direcionamento internacional e de alta performance, diploma de graduação universitária, curso intensivo em língua inglesa, e a oportunidade de carreira internacional com os investidores do programa ao final do curso.
+A [Jala_University](Jala_University.md) tem um programa de graduação em Engenharia de Software. Entre os diferenciais do projeto destacam-se a formação com direcionamento internacional e de alta performance, diploma de graduação universitária, curso intensivo em língua inglesa, e a oportunidade de carreira internacional com os investidores do programa ao final do curso.
 
 ---
 
@@ -59,6 +59,14 @@ Fonte: [Jala University](Excalidraw/Jala-Engenharia_software-Curso_admissao-Regr
 7. **Buscar a aprendizagem contínua:** Reconhecer a necessidade e envolver-se na aprendizagem ao longo da vida e no desenvolvimento profissional, bem como adaptar-se às novas tecnologias, metodologias e tendências em evolução da indústria. 
 8. **Cultive a Responsabilidade Social e a Gratidão:** Desenvolva uma consciência e apreço pelo bem-estar das pessoas, do meio ambiente e da sociedade, e contribua ativamente para mudanças positivas por meio de inovações computacionais e engajamento da comunidade.
 
+## Plataformas
+- [Meetpoint](../../../07/03/entrada/Meetpoint.md): Campus virtual, onde ocorre as aulas ao vivo;
+- [Canvas](../../../07/03/entrada/Instructure-Canvas.md): Plataforma web que possui o material das suas aulas, as regras e a descrição do curso. Além disso, é o ambiente onde os alunos entregam suas tarefas, laboratórios, provas e participam dos fóruns;
+- [SIS Classe 365](../../../07/03/entrada/SIS_Classe_365.md): Ferramenta para o aluno acessar suas informações pessoais e suas notas oficiais;
+- [eLibro](../../../07/03/entrada/eLibro.md): Biblioteca virtual;
+- [Netsuite](../../../07/03/entrada/Netsuite.md): Centro de suporte técnico;
+- [Gitlab](../../../07/03/entrada/Gitlab.md): repositório de código gratuito;
+- [AI VALIS](../../../07/03/entrada/AI_VALIS.md): É o único agente de IA autorizado para uso dentro da universidade
 ### Grade Curricular
 
 #### Semestre 1

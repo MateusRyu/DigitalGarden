@@ -9,7 +9,7 @@ created_at: 2025-06-21T00:20:59-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
 
-Mapa de módulos do Programa de graduação de [Engenharia de Software](../notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md) da [Jala University](../notas/2025/05/07/entrada/Jala%20University.md):
+Mapa de módulos do Programa de graduação de [Engenharia de Software](../notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md) da [Jala_University](../notas/2025/05/07/entrada/Jala_University.md):
 
 Módulo 1:
 - [Lógica](../notas/2025/06/20/entrada/Jala_University-Logica.md)

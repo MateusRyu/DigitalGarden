@@ -8,7 +8,7 @@ draft: false
 created_at: 2025-06-21T15:42:20-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
-Mapa de módulos do Programa de graduação de [Engenharia de Software](../notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md) da [Jala University](../notas/2025/05/07/entrada/Jala%20University.md):
+Mapa de módulos do Programa de graduação de [Engenharia de Software](../notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md) da [Jala_University](../notas/2025/05/07/entrada/Jala_University.md):
 
 - [Álgebra linear](../notas/2025/06/24/entrada/Jala_University-algebra_linear.md);
 - [Programação 2](../notas/2025/06/24/entrada/Jala_University-Programacao_2.md);
