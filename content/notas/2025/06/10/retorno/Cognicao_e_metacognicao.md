@@ -25,8 +25,8 @@ A [metacognição](../../17/atomo/Metacognicao.md) é a habilidade de ter consci
  - **Tarefas**: O grau de exigência de determinados processos cognitivos que uma certa tarefa pode demandar (por exemplo, "Ler um livro de matemática vai exigir mais atenção do que ler um livro de ficção").
  - **Estratégias**: A capacidade de conhecer a forma como um processo cognitivo pode ser executado e assim podendo escolher a estratégia mais adequada para as diferentes situações
 
-![Cognicao_metacognicao.excalidraw](../../../../../../Excalidraw/Cognicao_metacognicao.excalidraw.svg)
-(Fonte: [autoria própria](../../../../../../Excalidraw/Cognicao_metacognicao.excalidraw.md))
+![Cognicao_metacognicao.excalidraw](../../../../../excalidraw/2025/Cognicao_metacognicao.excalidraw.svg)
+(Fonte: [autoria própria](../../../../../excalidraw/2025/Cognicao_metacognicao.excalidraw.md))
 ## Como aprendemos?
 A teoria real é mais complexa e envolve mais fatores, mas podemos simplificar na seguinte estrutura que será exemplificado com uma analogia com a formação de uma biblioteca nova. 
 
@@ -43,8 +43,8 @@ Essa etapa de descobrir onde este livro pertence na minha biblioteca é chamada 
 ### Recuperação
 Por fim, o objetivo final de uma biblioteca é para que possamos ir consultar livros que nos serão útil em um determinado momento no futuro. Para isso, precisamos ser capazes de saber qual informação queremos encontrar e onde que essa informação está. A grande falha na mera memorização é que ela dificulta para a recuperação da informação no momento em que ela é importante, é como se todo novo livro fosse apenas embilhado em uma torre de livro ao acaso. Além disso, a frequência em que a gente revisita cada livro ajuda a facilitar na etapa de recuperação, pois ficamos mais familiarizados em como os livros estão organizados e onde que cada informação está localizada. Da mesma forma, quanto mais regularmente lembrarmos e utilizemos as informações que aprendemos, melhoremos seremos capazes de encontrá-las e aplicá-las no futuro. 
 
-![Como_aprendemos.excalidraw](../../../../../../Excalidraw/Como_aprendemos.excalidraw.svg)
-(Fonte: [Autoria própria](../../../../../../Excalidraw/Como_aprendemos.excalidraw.md))
+![Como_aprendemos.excalidraw](../../../../../excalidraw/2025/Como_aprendemos.excalidraw.svg)
+(Fonte: [Autoria própria](../../../../../excalidraw/2025/Como_aprendemos.excalidraw.md))
 
 
 ## Ativação do conhecimento prévio

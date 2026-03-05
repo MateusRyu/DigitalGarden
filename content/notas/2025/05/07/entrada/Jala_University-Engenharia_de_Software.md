@@ -5,7 +5,7 @@ tags:
 aliases:
   - "Jala University: Engenharia de Software"
   - Engenharia de Software
-draft: true
+draft: false
 created_at: 2025-05-07T01:37:36-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
@@ -20,7 +20,7 @@ A [Jala_University](Jala_University.md) tem um programa de graduação em Engen
 2. Sessão Informativa;
 3. Prova de Perfil Social Vocacional (PSV);
 4. Teste de atitude e Lógica;
-5. [[content/notas/2025/05/12/entrada/Jala University - Curso de admissão da Engenharia de Software]]:
+5. [Curso de admissão](../../12/entrada/Jala%20University%20-%20Curso%20de%20admissão%20da%20Engenharia%20de%20Software.md):
 	1. Módulo 1 - Introdução à programação
 		1. Apresentação do curso de admissão;
 		2. Fundamentos da programação;
@@ -37,8 +37,8 @@ A [Jala_University](Jala_University.md) tem um programa de graduação em Engen
 ## Regras do curso de admissão
 
 
-![Jala-Engenharia_software-Curso_admissao-Regras.excalidraw](Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.svg)
-Fonte: [Jala University](Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md)
+![Jala-Engenharia_software-Curso_admissao-Regras.excalidraw](../../../../../excalidraw/2025/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.svg)
+Fonte: [Jala University](../../../../../excalidraw/2025/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md)
 
 ## Detalhes do curso
 

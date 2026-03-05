@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "47431217505b11ff",
+        "id": "3c864e6b20ee6fb9",
         "type": "tabs",
         "children": [
           {
-            "id": "917bbe29cb8a4dfe",
+            "id": "b354ff150b886329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notas/2025/06/10/retorno/Cognicao_e_metacognicao.md",
+                "file": "content/notas/2024/07/13/entrada/Fraction_of_Flame.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fraction_of_Flame"
+            }
+          },
+          {
+            "id": "0fba713407356ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notas/2024/07/08/atomo/Markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognicao_e_metacognicao"
+              "title": "Markdown"
             }
           }
         ]
@@ -42,10 +56,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -88,11 +102,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notas/2025/06/10/retorno/Cognicao_e_metacognicao.md",
+                "file": "content/notas/2024/07/13/entrada/Fraction_of_Flame.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -101,7 +115,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -2.9,
                   "nodeSizeMultiplier": 1,
@@ -111,19 +125,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4444444444444444,
+                  "scale": 0.4444444444444442,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Cognicao_e_metacognicao"
+              "title": "Gráfico de Fraction_of_Flame"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 409.5
   },
   "right": {
     "id": "70366b6089a4156a",
@@ -205,63 +219,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8afc08e9adc94d60",
+  "active": "b354ff150b886329",
   "lastOpenFiles": [
-    "content/notas/2025/06/17/atomo/Metacognicao.md",
-    "content/notas/2024/07/26/atomo/Precisão.md",
-    "content/excalidraw/2024/07/2024-07-19-precisao_acuracia.excalidraw.md",
+    "content/notas/2024/07/13/entrada/Mechanical_Rhapsody.md",
+    "content/notas/2025/03/30/atomo/musica.md",
+    "content/notas/2024/07/12/entrada/Obsidian_Sintaxe.md",
+    "content/notas/2024/07/08/atomo/Markdown.md",
+    "content/notas/2024/07/08/atomo/HyperText_Markup_Language.md",
+    "content/notas/2024/07/08/Entrada/Obsidian.md",
+    "content/notas/2024/07/26/entrada/Windows.md",
+    "content/notas/2024/08/04/atomo/Sistema_Operacional.md",
+    "content/notas/2024/07/26/entrada/Linux.md",
+    "content/notas/2024/07/05/atomo/Self.md",
+    "content/notas/2024/07/05/atomo/Header_HTTP.md",
+    "content/notas/2024/07/05/atomo/Autodisciplina.md",
+    "content/notas/2025/06/27/entrada/Jala_University-Redacao_e_Composicao_2.md",
+    "content/notas/2026/01/26/Arknights Endfield.md",
+    "content/notas/2026/02/03/atomo/Algoritmos de busca.md",
+    "content/notas/2024/07/26/entrada/Arco_Linux.md",
     "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
     "content/notas/2025/05/07/entrada/Jala_University.md",
-    "content/notas/2025/07/03/entrada/Instructure-Canvas.md",
-    "Untitled.md",
-    "content/notas/2024/07/26/atomo/Xadrez_Aberturas_de_flanco.md",
-    "content/notas/2024/07/26/atomo/Xadrez_Aberturas.md",
-    "content/mapa/Xadrez.md",
-    "content/index.md",
-    "content/notas/2024/07/26/atomo/Acuracia.md",
-    "content/notas/2024/07/26/atomo/Xadrez_Gambito.md",
-    "content/notas/2024/07/26/atomo/Inteligencia_artificial.md",
-    "content/notas/2024/08/05/atomo/Aprendizado_profundo.md",
-    "content/notas/2024/07/18/atomo/LLM.md",
-    "content/excalidraw/2024/07/2024-07-19-precisao_acuracia.excalidraw.svg",
-    "README.md",
-    "private/Reunião Jala.md",
-    "private",
-    "content/notas/2025/07/03/entrada/AI_VALIS.md",
-    "content/notas/2025/07/03/entrada/Netsuite.md",
-    "content/notas/2025/07/03/entrada/Gitlab.md",
-    "content/notas/2025/07/03/entrada/SIS_Classe_365.md",
-    "content/notas/2025/07/03/entrada/eLibro.md",
-    "content/notas/2025/07/03/entrada/Meetpoint.md",
-    "content/notas/2025/07/03/entrada/JalaSoft.md",
-    "content/notas/2025/07/03/entrada",
-    "content/notas/2025/07/03",
-    "content/notas/2025/07",
-    "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md",
-    "content/notas/2025/06/30/atomo",
-    "content/notas/2025/06/30",
-    "content/notas/2025/06/29/entrada",
-    "content/notas/2025/06/29",
-    "content/notas/2025/06/28/entrada",
-    "content/notas/2025/06/28",
-    "content/assets/images/2025/Reconhecimento_cores.webp.webp",
-    "Excalidraw/Como_aprendemos.excalidraw.svg",
-    "Excalidraw/Cognicao_metacognicao.excalidraw.svg",
-    "content/assets/images/2025/Pasted image 20250512154405.png",
+    "content/notas/2025/06/24/entrada/Jala_University-Banco_de_dados_2.md",
+    "content/notas/2025/02/16/atomo/Metodologia_POWER.md",
+    "content/notas/2025/02/16/atomo/unidade_narrativa.md",
+    "content/notas/2025/02/15/entrada/Redação do ENEM.md",
+    "content/notas/2025/02/15/atomo/texto_dissertativo_argumentativo.md",
+    "content/notas/2024/08/10/entrada/Hyprland.md",
+    "content/notas/2026/02/03/atomo/Algoritmos de ordenação.md",
+    "content/notas/2026/02/03/atomo/Array.md",
+    "content/notas/2026/02/03/atomo",
+    "content/notas/2026/02/03",
+    "content/notas/2026/02",
+    "content/excalidraw/2025/Jala University - Programação 7 2025-06-29 00.47.19.excalidraw.svg",
+    "quartz/processors/emit.ts",
+    "quartz/processors/parse.ts",
+    "quartz/processors/filter.ts",
+    "quartz/util/escape.ts",
+    "quartz/util/ctx.ts",
+    "quartz/util/path.test.ts",
+    "quartz/util/log.ts",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "content/assets/images/2024/Little_Bot_Bunny-final.png",
+    "content/assets/images/2024/Crisantemo_dividido_em_tres_circulos.png",
+    "content/assets/images/2024/Blender_3D_Viewport.png",
+    "content/assets/images/2024/Little_Bot_Bunny-Concept_art.png",
+    "content/assets/images/2024/Blender_Outliner.png",
     "content/assets/images/2024/Pasted Image 20240613173345_877.png",
-    "content/assets/images/2024/Pasted Image 20240613172503_261.png",
-    "content/assets/images/2025/Pasted image 20250507015436.png",
-    "Pasted Image 20250507015520_828.png",
-    "Pasted image 20250507015454.png"
+    "content/assets/images/2024/Blender_Editor_de_Propriedades.png"
   ]
 }

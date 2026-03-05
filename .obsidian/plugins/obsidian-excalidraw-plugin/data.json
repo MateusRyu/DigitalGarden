@@ -1,6 +1,6 @@
 {
   "disableDoubleClickTextEditing": false,
-  "folder": "Excalidraw",
+  "folder": "content/excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -114,7 +114,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "2.13.0",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,

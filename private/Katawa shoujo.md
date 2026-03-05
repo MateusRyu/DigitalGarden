@@ -1,0 +1,1 @@
+- Existe um certo contraste entre o exterior antiguado mas "luxuoso" e o interior moderno, funcional mas sem graça.

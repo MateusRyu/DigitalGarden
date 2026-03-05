@@ -19,8 +19,8 @@ As principais configurações do ZSH estão em um arquivo na [pasta home](../../
 cat ~/.zshrc
 ```
 
-![zsh_startup.excalidraw](../../../../../../Excalidraw/zsh_startup.excalidraw.svg)
-([autoria própria](../../../../../../Excalidraw/zsh_startup.excalidraw.md))
+![zsh_startup.excalidraw](../../../../../excalidraw/2025/zsh_startup.excalidraw.svg)
+([autoria própria](../../../../../excalidraw/2025/zsh_startup.excalidraw.md))
 
 ### Recarregando as configurações
 Para recarregar as configurações do ZSH sem a necessidade de reiniciar o [emulador de terminal](../../../../2024/07/26/atomo/Emulador_de_terminal.md), execute o comando abaixo:
