@@ -10,7 +10,7 @@ created_at: 2025-05-07T01:37:36-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
 
-A [Jala_University](Jala_University.md) tem um programa de graduação em Engenharia de Software. Entre os diferenciais do projeto destacam-se a formação com direcionamento internacional e de alta performance, diploma de graduação universitária, curso intensivo em língua inglesa, e a oportunidade de carreira internacional com os investidores do programa ao final do curso.
+A [Jala_University](../../../../2026/06/21/entrada/Jala_University.md) tem um programa de graduação em Engenharia de Software. Entre os diferenciais do projeto destacam-se a formação com direcionamento internacional e de alta performance, diploma de graduação universitária, curso intensivo em língua inglesa, e a oportunidade de carreira internacional com os investidores do programa ao final do curso.
 
 ---
 
