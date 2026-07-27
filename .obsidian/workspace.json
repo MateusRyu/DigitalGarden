@@ -11,10 +11,14 @@
             "id": "8fe25c569c45427e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "content/notas/2026/07/27/entrada/Star G640.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Star G640"
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/notas/2026/07/27/entrada/Star G640.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,14 +116,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Gráfico de Star G640"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "70366b6089a4156a",
@@ -213,6 +219,23 @@
   },
   "active": "8fe25c569c45427e",
   "lastOpenFiles": [
+    "private/Reunião Jala.md",
+    "content/notas/2024/07/26/atomo/Hardware.md",
+    "content/notas/2026/07/27/entrada/Star G640.md",
+    "content/notas/2026/07/27/atomo/Driver.md",
+    "content/notas/2026/07/27/atomo/Mesa Digitalizadora.md",
+    "content/notas/2026/07/27/atomo/Display Interativo.md",
+    "content/notas/2026/07/27/entrada/XPPen.md",
+    "content/notas/2026/07/27/atomo/Pad de desenho.md",
+    "content/notas/2026/07/27/atomo/Note Pad.md",
+    "content/notas/2026/07/27/atomo/Console de edição.md",
+    "content/notas/2026/07/27/atomo/Arte digital.md",
+    "content/notas/2026/07/27/entrada",
+    "content/datas/2004.md",
+    "content/datas/2005.md",
+    "content/notas/2025/03/30/atomo/musica.md",
+    "content/notas/2026/07/27/atomo",
+    "content/notas/2026/07/27",
     "content/notas/2026/07/15/atomo/Teste ad-hoc.md",
     "content/notas/2024/08/04/atomo/Sistema_Operacional.md",
     "content/notas/2024/09/04/atomo/Hard_disk_drive.md",
@@ -228,28 +251,11 @@
     "content/notas/2026/06/21/entrada/Ken Thompson.md",
     "content/notas/2026/06/21/entrada/Rob Pike.md",
     "content/notas/2026/06/21/entrada/Robert Griesemer.md",
-    "content/notas/2026/06/21/entrada/Google.md",
-    "content/notas/2026/06/21/entrada/Jala_University.md",
-    "content/notas/2025/07/09/entrada/Lógica para ciência da computação e áreas afins.md",
     "Sem título.base",
     "content/notas/2025/07/09/entrada",
     "content/notas/2025/07/09",
     "content/notas/2026/06/21/entrada",
-    "templates/Insight.md",
-    "content/notas/2026/06/21/atomo",
-    "content/notas/2026/06/21",
-    "content/notas/2026/06",
-    "private/Reunião Jala.md",
-    "content/notas/2024/07/26/atomo/Precisão.md",
-    "content/excalidraw/2024/07/2024-07-19-precisao_acuracia.excalidraw.md",
-    "content/notas/2024/07/08/atomo/Markdown.md",
     "content/assets/images/2024/Blender_Outliner.png",
-    "content/notas/2024/07/13/entrada/Fraction_of_Flame.md",
-    "content/notas/2024/07/13/entrada/Mechanical_Rhapsody.md",
-    "content/notas/2025/03/30/atomo/musica.md",
-    "content/notas/2024/07/12/entrada/Obsidian_Sintaxe.md",
-    "content/notas/2024/07/08/atomo/HyperText_Markup_Language.md",
-    "content/notas/2024/07/08/Entrada/Obsidian.md",
     "content/excalidraw/2025/Jala University - Programação 7 2025-06-29 00.47.19.excalidraw.svg",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
