@@ -8,6 +8,7 @@ draft: false
 created_at: 2025-05-07T01:32:32-03:00
 updated_at: 2025-02-14T16:03:32-03:00
 ---
+A Jala University é uma instituição de ensino superior norte-americana (com sede no Havaí/Califórnia e braço corporativo no ecossistema da empresa de tecnologia [Jala Group](../../../../2026/07/29/entrada/Jala%20Group.md)/[JalaSoft](../../../07/03/entrada/JalaSoft.md)). Ela foca na formação de profissionais na área de Engenharia de Software e atua fortemente em diversos países da América Latina, como Brasil, Bolívia, Colômbia, México e Argentina.  O grande diferencial do modelo de atuação da Jala é a sua proposta de educação financiada pela indústria de tecnologia.
 
 https://jala.university/ | https://www.linkedin.com/school/jala-university/
 
